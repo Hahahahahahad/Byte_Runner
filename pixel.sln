@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pixel", "pixel\pixel.vcxproj", "{85A5FEE1-255D-479E-80B7-CCBF1B4414FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85A5FEE1-255D-479E-80B7-CCBF1B4414FF}.Debug|x64.ActiveCfg = Debug|x64
+		{85A5FEE1-255D-479E-80B7-CCBF1B4414FF}.Debug|x64.Build.0 = Debug|x64
+		{85A5FEE1-255D-479E-80B7-CCBF1B4414FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{85A5FEE1-255D-479E-80B7-CCBF1B4414FF}.Debug|x86.Build.0 = Debug|Win32
+		{85A5FEE1-255D-479E-80B7-CCBF1B4414FF}.Release|x64.ActiveCfg = Release|x64
+		{85A5FEE1-255D-479E-80B7-CCBF1B4414FF}.Release|x64.Build.0 = Release|x64
+		{85A5FEE1-255D-479E-80B7-CCBF1B4414FF}.Release|x86.ActiveCfg = Release|Win32
+		{85A5FEE1-255D-479E-80B7-CCBF1B4414FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BE85FA1-3808-459E-8E09-AFE2B05A2A86}
+	EndGlobalSection
+EndGlobal

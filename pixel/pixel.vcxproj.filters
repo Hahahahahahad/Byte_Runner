@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="status_bar.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="move_to_xy.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="background.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="statement.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="color.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="figure.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cursor_hidden.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="control.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="barrier.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="crash.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gameover.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="move.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="coin.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="score.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="play_mode.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="difficulty_choice.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="shield.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="music.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="file.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="flamethrower.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Flame_Crash.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Note.md">
+      <Filter>源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Byte_Runner.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="..\..\超级玛丽音效集\02.游戏BGM\theme.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="..\..\11. 硬币.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="..\..\18. 游戏结束.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
